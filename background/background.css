@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.a1{
+	width:400px;
+	height:500px;
+	background-color:red;
+	background-image:url("Landscape029.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+
